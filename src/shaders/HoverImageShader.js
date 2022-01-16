@@ -1,6 +1,4 @@
-/**
- * @author TheFrost / https://codepen.io/frost084/full/OKZNRm
- */
+
 
 var HoverImageShader = {
   vertexShader: `
